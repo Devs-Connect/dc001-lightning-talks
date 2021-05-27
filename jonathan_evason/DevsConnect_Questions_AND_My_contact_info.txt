@@ -1,0 +1,22 @@
+// Beginnerstuff
+
+Start small and build up, if you already run something in a cloud, can you write a version in terraform?
+
+Below is an example on my github but happy to touch base and assist where I can.
+
+https://github.com/JEvason90/CV - example
+https://www.terraform.io/intro/index.html
+
+
+// Testing
+
+Testing at present is a challenge, we're currently exploring what options are available in order to improve our work, resoruces below:
+
+https://github.com/gruntwork-io/terratest
+https://jeff-knurek.medium.com/automating-terraform-worflows-b5ed0b217af1
+https://medium.com/@joatmon08/test-driven-development-techniques-for-infrastructure-a73bd1ab273b
+
+// My Contact Info
+
+Twitter: @JonnyEv5
+LinkedIn: jonathan-evason
