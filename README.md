@@ -6,3 +6,6 @@ Slides, demo code
 
 ## Developing an Inclusive Engineering Team by Mark Littlemore
 [Slides](./developing_an_inclusive_engineering_team_by_marc_littlemore/marc_littlemore_devs_connect_may_2021.pdf)
+
+## Microfrontends by Luisa Pinto
+[Slides](./microfrontends/Microfrontends.pdf)
