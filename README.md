@@ -12,6 +12,7 @@ Slides, demo code
 
 ### Terraform: Monorepo vs Multirepo
 [Slides as PDF](./jonathan_evason_terraform_monorepo_vs_multirepo/terraform_monorepo_vs_multirepo.pdf)
+
 [Slides as PowerPoint](./jonathan_evason_terraform_monorepo_vs_multirepo/terraform_monorepo_vs_multirepo.pptx)
-[Q&A + Contact Info]
-(./jonathan_evason_terraform_monorepo_vs_multirepo/DevsConnect_Questions_AND_My_contact_info)
+
+[Q&A + Contact Info](./jonathan_evason_terraform_monorepo_vs_multirepo/DevsConnect_Questions_AND_My_contact_info)
