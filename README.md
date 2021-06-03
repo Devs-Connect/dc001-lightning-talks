@@ -8,11 +8,11 @@ Slides, demo code
 [Slides](./developing_an_inclusive_engineering_team_by_marc_littlemore/marc_littlemore_devs_connect_may_2021.pdf)
 
 ### Microfrontends by Luisa Pinto
-[Slides](./luisa_pinto_microfrontends/Microfrontends.pdf)
+[Slides](./microfrontends_by_luisa_pinto/Microfrontends.pdf)
 
 ### Terraform: Monorepo vs Multirepo
-[Slides as PDF](./jonathan_evason_terraform_monorepo_vs_multirepo/terraform_monorepo_vs_multirepo.pdf)
+[Slides as PDF](./terraform_monorepo_vs_multirepo_by_jonathan_evason/terraform_monorepo_vs_multirepo.pdf)
 
-[Slides as PowerPoint](./jonathan_evason_terraform_monorepo_vs_multirepo/terraform_monorepo_vs_multirepo.pptx)
+[Slides as PowerPoint](./terraform_monorepo_vs_multirepo_by_jonathan_evason/terraform_monorepo_vs_multirepo.pptx)
 
-[Q&A + Contact Info](./jonathan_evason_terraform_monorepo_vs_multirepo/DevsConnect_Questions_AND_My_contact_info.txt)
+[Q&A + Contact Info](./terraform_monorepo_vs_multirepo_by_jonathan_evason/DevsConnect_Questions_AND_My_contact_info.txt)
