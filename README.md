@@ -24,7 +24,7 @@ Slides, demo code
 [Q&A + Contact Info](./terraform_monorepo_vs_multirepo_by_jonathan_evason/DevsConnect_Questions_AND_My_contact_info.txt)
 
 ### The Visitor Design Pattern by Simona Paulescu
-[Video](https://www.youtube.com/watch?v=Od9DAc4WgAk&t=14s)
+[Video](https://www.youtube.com/watch?v=Od9DAc4WgAk)
 
 [Slides as PDF](./visitor_design_pattern_by_simona_paulescu/the_visitor_design_pattern_by_simona_paulescu.pdf)
 
