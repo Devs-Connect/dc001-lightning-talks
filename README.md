@@ -10,7 +10,7 @@ Slides, demo code
 ### Microfrontends by Luisa Pinto
 [Slides](./microfrontends_by_luisa_pinto/Microfrontends.pdf)
 
-### Terraform: Monorepo vs Multirepo
+### Terraform: Monorepo vs Multirepo by Jonathan Evason
 [Slides as PDF](./terraform_monorepo_vs_multirepo_by_jonathan_evason/terraform_monorepo_vs_multirepo.pdf)
 
 [Slides as PowerPoint](./terraform_monorepo_vs_multirepo_by_jonathan_evason/terraform_monorepo_vs_multirepo.pptx)
