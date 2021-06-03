@@ -16,3 +16,8 @@ Slides, demo code
 [Slides as PowerPoint](./terraform_monorepo_vs_multirepo_by_jonathan_evason/terraform_monorepo_vs_multirepo.pptx)
 
 [Q&A + Contact Info](./terraform_monorepo_vs_multirepo_by_jonathan_evason/DevsConnect_Questions_AND_My_contact_info.txt)
+
+### The Visitor Design Pattern by Simona Paulescu
+[Slides as PDF](./visitor_design_pattern_by_simona_paulescu/the_visitor_design_pattern_by_simona_paulescu.pdf)
+
+[Slides as PowerPoint](./visitor_design_pattern_by_simona_paulescu/the_visitor_design_pattern_by_simona_paulescu.pptx)
